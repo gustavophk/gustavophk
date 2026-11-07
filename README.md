@@ -18,7 +18,7 @@ Construo APIs e aplicações web com Python, Flask, Node.js e React, e gosto de 
         <img
             alt="Email"
             title="Enviar e-mail"
-            src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=microsoftoutlook&logoColor=white"
+            src="https://img.shields.io/badge/Email-2EA44F?style=for-the-badge&logo=microsoftoutlook&logoColor=white"
         />
     </a>
     <a href="https://github.com/gustavophk?tab=followers">
