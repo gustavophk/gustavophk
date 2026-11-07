@@ -23,27 +23,16 @@ Construo APIs e aplicações web com Python, Flask, Node.js e React, e gosto de 
     </a>
     <a href="https://github.com/gustavophk?tab=followers">
         <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
+            alt="followers"
+            title="Follow me on Github"
             src="https://custom-icon-badges.demolab.com/github/followers/gustavophk?color=6E7681&labelColor=30363D&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
 
----
 
-### 🚀 Projetos
-
-**PAQJobs** — plataforma web de vagas de estágio e aprendizagem para jovens de 16 a 24 anos.
-- Front-end com React, Vite e Tailwind; back-end com Node.js e MongoDB.
-- Consome APIs externas de vagas (Adzuna e Jooble).
-- Assistente de IA integrado (Llama 3.3 70B via Groq).
-- Testes de API no Postman e testes E2E com Playwright.
-
-**Pipeline de Ingestão e Visualização de Dados do CNPJ (Receita Federal)**
-- ETL em Python que baixa automaticamente os dados abertos do CNPJ (requisições HTTP, BeautifulSoup e regex) e processa os registros com Pandas.
-- Persistência em SQLite com carga idempotente e índices nas colunas-chave, que aceleram as buscas.
-- Dashboard em Streamlit com filtros por UF e situação cadastral, busca por razão social ou CNPJ e ficha cadastral com sócios e filiais.
+<br/>
+<br/>
 
 ---
 
@@ -69,7 +58,25 @@ Construo APIs e aplicações web com Python, Flask, Node.js e React, e gosto de 
 </p>
 
 Também trabalho com SQL, Streamlit, BeautifulSoup, Playwright, LLMs (Groq) e pacote Office, com foco em planilhas e automação de cálculos.
+<br/>
+<br/>
 
+---
+
+### 🚀 Projetos
+
+**PAQJobs** — plataforma web de vagas de estágio e aprendizagem para jovens de 16 a 24 anos.
+- Front-end com React, Vite e Tailwind; back-end com Node.js e MongoDB.
+- Consome APIs externas de vagas (Adzuna e Jooble).
+- Assistente de IA integrado (Llama 3.3 70B via Groq).
+- Testes de API no Postman e testes E2E com Playwright.
+
+**Pipeline de Ingestão e Visualização de Dados do CNPJ (Receita Federal)**
+- ETL em Python que baixa automaticamente os dados abertos do CNPJ (requisições HTTP, BeautifulSoup e regex) e processa os registros com Pandas.
+- Persistência em SQLite com carga idempotente e índices nas colunas-chave, que aceleram as buscas.
+- Dashboard em Streamlit com filtros por UF e situação cadastral, busca por razão social ou CNPJ e ficha cadastral com sócios e filiais.
+<br/>
+<br/>
 ---
 
 ### 🎓 Formação
@@ -80,6 +87,7 @@ Também trabalho com SQL, Streamlit, BeautifulSoup, Playwright, LLMs (Groq) e pa
 
 ---
 
+
 ### 📊 Estatísticas
 
 <p>
@@ -88,13 +96,13 @@ Também trabalho com SQL, Streamlit, BeautifulSoup, Playwright, LLMs (Groq) e pa
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=gustavophk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-stats-extended.vercel.app/api?username=gustavophk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-
+    
   <img
     align="left"
     alt="Top Languages"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavophk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=gustavophk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
