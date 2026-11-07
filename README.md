@@ -25,7 +25,7 @@ Construo APIs e aplicações web com Python, Flask, Node.js e React, e gosto de 
         <img
             alt="Seguidores"
             title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/gustavophk?color=FFC107&labelColor=E0A800&style=for-the-badge&logo=github&label=Seguidores&logoColor=black"
+            src="https://custom-icon-badges.demolab.com/github/followers/gustavophk?color=6E7681&labelColor=30363D&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
