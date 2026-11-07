@@ -77,6 +77,7 @@ Também trabalho com SQL, Streamlit, BeautifulSoup, Playwright, LLMs (Groq) e pa
 - Dashboard em Streamlit com filtros por UF e situação cadastral, busca por razão social ou CNPJ e ficha cadastral com sócios e filiais.
 <br/>
 <br/>
+
 ---
 
 ### 🎓 Formação
